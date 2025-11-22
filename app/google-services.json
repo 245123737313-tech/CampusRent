@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112667913156",
+    "firebase_url": "https://musuembot-default-rtdb.firebaseio.com",
+    "project_id": "musuembot",
+    "storage_bucket": "musuembot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112667913156:android:f642fb379f85e486b61291",
+        "android_client_info": {
+          "package_name": "com.sravan.campusrent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YMdepnV8_2rKEwfIcolk_DRXUQpCebY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
